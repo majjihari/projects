@@ -2,8 +2,6 @@
 project.lock
 
 .env/
-.env*
-.vscode/
 .prettierrc
 tmp
 
@@ -91,7 +89,6 @@ celerybeat-schedule
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -120,3 +117,5 @@ venv.bak/
 
 # Vim files
 *.sw*
+config.bat
+node_modules
